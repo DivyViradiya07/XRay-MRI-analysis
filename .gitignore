@@ -1,0 +1,10 @@
+# Ignore large datasets
+Preprocessed_Images/
+Dataset/images
+Dataset/Test
+Dataset/train
+Processed_Images/
+
+# Ignore model checkpoints
+*.pth
+*.pt
